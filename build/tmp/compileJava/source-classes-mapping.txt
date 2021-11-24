@@ -1,0 +1,37 @@
+CapaPresentacion/FormCafe.java
+ CapaPresentacion.FormCafe
+ CapaPresentacion.FormCafe$1
+ CapaPresentacion.FormCafe$2
+ CapaPresentacion.FormCafe$3
+ CapaPresentacion.FormCafe$4
+ CapaPresentacion.FormCafe$5
+CapaPresentacion/FormAzucar.java
+ CapaPresentacion.FormAzucar
+ CapaPresentacion.FormAzucar$1
+ CapaPresentacion.FormAzucar$2
+ CapaPresentacion.FormAzucar$3
+ CapaPresentacion.FormAzucar$4
+ CapaPresentacion.FormAzucar$5
+CapaPresentacion/FormPrincipal.java
+ CapaPresentacion.FormPrincipal
+ CapaPresentacion.FormPrincipal$1
+ CapaPresentacion.FormPrincipal$2
+ CapaPresentacion.FormPrincipal$3
+CapaNegocio/Producto.java
+ CapaNegocio.Producto
+CapaNegocio/DepositoMoneda.java
+ CapaNegocio.DepositoMoneda
+CapaNegocio/Ingrediente.java
+ CapaNegocio.Ingrediente
+CapaNegocio/Azucar.java
+ CapaNegocio.Azucar
+CapaNegocio/DepositoMonedaTipo.java
+ CapaNegocio.DepositoMonedaTipo
+CapaNegocio/Cafe.java
+ CapaNegocio.Cafe
+CapaNegocio/Cacao.java
+ CapaNegocio.Cacao
+CapaNegocio/Maquina.java
+ CapaNegocio.Maquina
+maquinaCafe/Main.java
+ maquinaCafe.Main
